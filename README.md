@@ -12,5 +12,5 @@ console.log(foo(5));
 ```
 
 
-//:Find more information for [Test HTML](https://frankjmclarke.github.io/delme/)
+Find more information for [Test HTML](https://frankjmclarke.github.io/delme/)
 
